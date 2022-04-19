@@ -1,19 +1,19 @@
 {
-    "version": "0.17.25",
+    "version": "0.17.26",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/dosco/graphjin/releases/download/v0.17.25/graphjin_0.17.25_windows_386.tar.gz",
+            "url": "https://github.com/dosco/graphjin/releases/download/v0.17.26/graphjin_0.17.26_windows_386.tar.gz",
             "bin": [
                 "graphjin.exe"
             ],
-            "hash": "0054dd3158b80b33277569c0fcfd14c7444b0b8870d4990aae3f74237b427bd5"
+            "hash": "0a6acf4c40814097d8d2fc44e58459aa16f87c77d830b9b490c5a015b2570789"
         },
         "64bit": {
-            "url": "https://github.com/dosco/graphjin/releases/download/v0.17.25/graphjin_0.17.25_windows_amd64.tar.gz",
+            "url": "https://github.com/dosco/graphjin/releases/download/v0.17.26/graphjin_0.17.26_windows_amd64.tar.gz",
             "bin": [
                 "graphjin.exe"
             ],
-            "hash": "71ef87946a669e71349e8441afcb0ac77a541a0174bc43c636283b719d735bab"
+            "hash": "7054bf12e04b0ecac3927b32fe8d0b1a56a8146ee4c688821bb3347390cdfaa6"
         }
     },
     "homepage": "https://graphjin.com",
