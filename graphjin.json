@@ -6,14 +6,14 @@
             "bin": [
                 "graphjin.exe"
             ],
-            "hash": "63665aad954d66bde0e22b4ffad1de2a0a1b702e39eccb5c2cde761129c4befe"
+            "hash": "90523996bbbfe193b23ebc6586fafda328748d9239b8206c9f7c1185d6ff80b5"
         },
         "64bit": {
             "url": "https://github.com/dosco/graphjin/releases/download/v2.0.31/graphjin_2.0.31_windows_amd64.tar.gz",
             "bin": [
                 "graphjin.exe"
             ],
-            "hash": "50a17455d6818b3eee86a153a7388bdb8f7e93cd2b02ed45debb5647b13dc3bf"
+            "hash": "9639ba70164da3c17266d1d02ddc120f48fea748ffbf3c7a8f1521687c9413f6"
         }
     },
     "homepage": "https://graphjin.com",
